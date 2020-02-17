@@ -1,0 +1,6 @@
+export LOCALSTACK=true
+export LOCALSTACK_SSM_URL=http://localhost:4583
+export AWS_DEFAULT_REGION=eu-central-1
+export AWS_REGION=eu-central-1
+export AWS_ACCESS_KEY_ID=foobar
+export AWS_SECRET_ACCESS_KEY=foobar
